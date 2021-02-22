@@ -1,0 +1,15 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
+title: "Coursera"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+This is a markdown file
